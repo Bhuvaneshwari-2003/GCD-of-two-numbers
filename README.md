@@ -37,8 +37,8 @@ print("GCD of two numbers is:", gcd())
 */
 
 
-## Output:
-![gcd of two number](gcd.png)
+## Output:![Screenshot (20)](https://user-images.githubusercontent.com/94828604/154975528-b4df30c2-243b-404a-9149-bc5e03e0fef6.png)
+
 
 
 
